@@ -13,6 +13,6 @@ public class TestAnioBiesiesto {
         System.out.println("Test para el año " + anio + ":");
         boolean esBisiesto = Aniobisiesto.esBisiesto(anio);
         System.out.println(anio + " es bisiesto: " + esBisiesto);
-        System.out.println("-------------------------");
+        System.out.println("-------------------------"); 
     }
 }
