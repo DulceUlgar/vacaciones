@@ -1,3 +1,4 @@
+package ejercicio2;
 public class Aniobisiesto {
     public static void main(String[] args) {
         // Aquí puedes llamar a la función que deseas probar con diferentes años

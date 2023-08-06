@@ -1,3 +1,5 @@
+package ejercicio2;
+
 public class TestAnioBiesiesto {
     public static void main(String[] args) {
         // Ejecutamos algunos tests para probar el programa
