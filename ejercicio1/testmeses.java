@@ -10,7 +10,7 @@ public class TestMeses {
         testMes(13); // Mes inválido
     }
 
-    public static void testMes(int numeroMes) {
+    public static void testMes(int numeroMes) { 
         System.out.println("Test para el mes " + numeroMes + ":");
         Meses.mostrarNombreYDias(numeroMes);
         System.out.println("-------------------------");
