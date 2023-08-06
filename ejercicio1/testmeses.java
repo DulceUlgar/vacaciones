@@ -1,4 +1,4 @@
-public class testmeses {
+public class TestMeses {
     public static void main(String[] args) {
         // Ejecutamos algunos tests para probar el programa
         testMes(1); // Enero - 31 días
@@ -12,7 +12,7 @@ public class testmeses {
 
     public static void testMes(int numeroMes) {
         System.out.println("Test para el mes " + numeroMes + ":");
-        meses.mostrarNombreYDias(numeroMes);
+        Meses.mostrarNombreYDias(numeroMes);
         System.out.println("-------------------------");
     }
 }
